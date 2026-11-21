@@ -27,7 +27,7 @@ dependencyResolutionManagement {
 }
 
 dependencies {
-    implementation("com.github.GrapeGG-developer:air:1.0.0")
+    implementation("com.github.GrapeGG-developer:air:v1.0.0")
 }
 ```
 
